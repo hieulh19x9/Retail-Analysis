@@ -2,6 +2,7 @@
 Technical Skills utilized:
 - Using pandas to analyze and clean data
 - Seaborn and Matplotlib to data visualization
+- Create dashboards using Power BI
 
 Objective:
 - Data manipulation and exploring
